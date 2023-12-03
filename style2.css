@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Mada&family=Montserrat&family=Roboto&family=Rubik&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@700&family=Roboto&family=Tillana&display=swap");
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.MainPage2 {
+
+    background-color: #360369;
+    color: #ffffff;
+    transition: all 1s ease-in;
+
+}
+
+#MapBox {
+    width: 94vw;
+    height: 70vh;
+    margin-left: 33px;
+}
+
+h1 {
+    padding-top: 30px;
+    margin-left: 30px;
+    
+}
+
+#text2,
+#text3 {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+#latgap {
+    padding: 10px 60px;
+    background-color: #270846;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+#longgap {
+    padding: 10px 40px;
+    background-color: #270846;
+    border-radius: 10px;
+}
+
+.WeatherDetails {
+    width: 90vw;
+    height: 25vh;
+    margin: auto;
+    padding-bottom: 4 0px;
+}
+
+#weatherdataText {
+    color: #360369;
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 28px;
+}
+
+#box {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-right: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+#data {
+    height: 7vh;
+    width: 18vw;
+    border-radius: 10px;
+    background-color: #360369;
+    color: #ffffff;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
