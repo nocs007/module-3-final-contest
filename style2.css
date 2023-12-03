@@ -51,7 +51,7 @@ h1 {
     width: 90vw;
     height: 25vh;
     margin: auto;
-    padding-bottom: 4 0px;
+    padding-bottom: 40px;
 }
 
 #weatherdataText {
@@ -69,6 +69,7 @@ h1 {
     flex-wrap: wrap;
     flex-direction: row;
     font-size: 20px;
+    padding-bottom: 40px;
 }
 
 #data {
